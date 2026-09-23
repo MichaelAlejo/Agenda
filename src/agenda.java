@@ -10,10 +10,9 @@ public class agenda {
         System.out.println("3. Update an existing contact.");
         System.out.println("4. Delete an existing contact");
         System.out.println("5. Exit. ");
-        System.out.println("escoge una opcion: ");
 
         String opcion = sc.nextLine();
-        System.out.println("La opcion que has escogida es la: " + opcion ".");
+        System.out.println("La opcion escogida es la: " + opcion + ".");
 
 
 
